@@ -1,5 +1,5 @@
 # dotfiles
 
-My simple `.bashrc` and `.gitconfig`.
+My simple [`.bashrc`](.bashrc) and [`.gitconfig`](.gitconfig).
 Mostly aliases.
 :sassy_man:
