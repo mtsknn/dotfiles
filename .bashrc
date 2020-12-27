@@ -1,5 +1,5 @@
-# `ignoreboth` = don't save consequent duplicates and lines starting with a space to history.
-# `erasedups` = erase all previous identical lines (= duplicates) from history.
+# ignoreboth = don't save consequent duplicates and lines starting with a space to history.
+# erasedups  = erase all previous identical lines (= duplicates) from history.
 export HISTCONTROL=ignoreboth:erasedups
 
 # Unlimited history; see https://stackoverflow.com/q/9457233
