@@ -2,6 +2,10 @@
 # `erasedups` = erase all previous identical lines (= duplicates) from history.
 export HISTCONTROL=ignoreboth:erasedups
 
+# Unlimited history; see https://stackoverflow.com/q/9457233
+export HISTFILESIZE=
+export HISTSIZE=
+
 # E.g.:
 #   ~/Home/repos/dotfiles (master)
 #   £ command goes here
