@@ -16,7 +16,7 @@ alias e.='explorer .'
 alias ll='ls -l'
 alias la='ls -A'
 
-# Interactive and verbose
-alias cp='cp -iv'
-alias mv='mv -iv'
-alias rm='rm -iv'
+# Verbose
+alias cp='cp -v'
+alias mv='mv -v'
+alias rm='rm -v'
